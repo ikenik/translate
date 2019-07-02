@@ -1,0 +1,22 @@
+{
+  "Share/Common/CalcFunctions/BG_CalcFuncDescIntf.xml": {
+    "TBGCalcDataType": {
+      "Caption": "The data type of the parameter / result of the Calculator function",
+      "Items": {
+        "cdtNone": "Updated\n\n  line 2\nline 3",
+        "cdtDateTime": "Date /  {0} time",
+        "cdtFloat": "Real% S",
+        "cdtInteger": "Whole\nnumerical",
+        "cdtString": "Strang err",
+        "cdtAdded": "Added & modified"
+      }
+    }
+  },
+  "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
+    "TBGWSDLAuthorizationMode": {
+      "Items": {
+        "waOasis": "OASIS WS-Security"
+      }
+    }
+  }
+}
