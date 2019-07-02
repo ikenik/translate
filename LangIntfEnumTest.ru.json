@@ -3,7 +3,7 @@
         "TBGCalcDataType": {
             "Caption": "Тип данных параметра/результата функции Калькулятора",
             "Items": {
-                "cdtNone": "Обновлено",
+                "cdtNone": "Обно\r\n  влено",
                 "cdtDateTime": "Дата/время",
                 "cdtFloat": "Вещественный",
                 "cdtInteger": "Целочисленный",
