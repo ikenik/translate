@@ -1,42 +1,56 @@
 {
     "Share/Common/CalcFunctions/BG_CalcFuncDescIntf.xml": {
         "TBGCalcDataType": {
-            "Caption": "Тип данных параметра/результата функции Калькулятора",
+            "Caption": "Capt 1",
             "Items": {
-                "cdtNone1": "Обновлено",
-                "cdtDateTime1": "Дата/время",
-                "cdtFloat": "Новый текст",
-                "cdtInteger": "Новый текст 2",
-                "cdtAdded": "Добавлено",
-                "cdtVariant": "Другие"
+                "cdtNone": "Update",
+                "cdtDateTime": "D/t\n",
+                "cdtFloat": "fl",
+                "cdtInteger": "int",
+                "cdtString": "Rem",
+                "cdtAdded": "add",
+                "cdtVariant": "var"
+            }
+        },
+        "TBGCalcFuncCategory": {
+            "Caption": "Capt 1",
+            "Items": {
+                "fcFinancical": "",
+                "fcDateTime": "",
+                "fcMathematic": "",
+                "fcStatistic": "",
+                "fcLogic": "",
+                "fcString": "",
+                "fcOther": "",
+                "fcModel": ""
             }
         }
     },
     "Share/Common/CodeExec/BG_CodeAPIIntf.xml": {
         "TBGCodeAPIDataType": {
-            "Caption": "Тип данных API",
+            "Caption": "",
             "Items": {
-                "cdtVoid": "Пустой",
-                "cdtBoolean": "Логический",
-                "cdtDateTime": "Дата/время",
-                "cdtFloat": "Вещественный",
-                "cdtInteger": "Целочисленный",
-                "cdtString": "Строковый",
-                "cdtObject": "Объект",
-                "cdtArray": "Массив",
-                "cdtAny": "Любой"
+                "cdtVoid": "",
+                "cdtBoolean": "",
+                "cdtDateTime": "",
+                "cdtFloat": "",
+                "cdtInteger": "",
+                "cdtString": "",
+                "cdtObject": "",
+                "cdtArray": "",
+                "cdtAny": ""
             }
         }
     },
     "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
         "TBGWSDLAuthorizationMode": {
-            "Caption": "Тип авторизации клиента, используемый сервисом",
+            "Caption": "",
             "Items": {
-                "waAbsent": "Без авторизации",
-                "waNamePass": "Имя пользователя и пароль",
-                "waOAuth": "OAuth",
-                "waCert": "Предоставить сертификат клиента",
-                "waOasis": "OASIS WS-Security"
+                "waAbsent": "",
+                "waNamePass": "",
+                "waOAuth": "",
+                "waCert": "",
+                "waOasis": ""
             }
         }
     }
