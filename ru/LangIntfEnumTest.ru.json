@@ -15,14 +15,7 @@
         "TBGCalcFuncCategory": {
             "Caption": "Категория функции",
             "Items": {
-                "fcFinancical": "Финансовые",
-                "fcDateTime": "Дата/Время",
-                "fcMathematic": "Математические",
-                "fcStatistic": "Статистические",
-                "fcLogic": "Логические",
-                "fcString": "Строковые",
-                "fcOther": "Другие",
-                "fcModel": "Пользовательские модели"
+                "fcFinancical": "Финансовые"
             }
         }
     },
