@@ -15,42 +15,42 @@
         "TBGCalcFuncCategory": {
             "Caption": "Capt 1",
             "Items": {
-                "fcFinancical": "",
-                "fcDateTime": "",
-                "fcMathematic": "",
-                "fcStatistic": "",
-                "fcLogic": "",
-                "fcString": "",
-                "fcOther": "",
-                "fcModel": ""
+                "fcFinancical": "ancical",
+                "fcDateTime": "d/t\n\nSEE",
+                "fcMathematic": "fcMathematic",
+                "fcStatistic": "fcStatistic",
+                "fcLogic": "fcLogic",
+                "fcString": "fcString",
+                "fcOther": "fcOther",
+                "fcModel": "fcModel"
             }
         }
     },
     "Share/Common/CodeExec/BG_CodeAPIIntf.xml": {
         "TBGCodeAPIDataType": {
-            "Caption": "",
+            "Caption": "Caption",
             "Items": {
-                "cdtVoid": "",
-                "cdtBoolean": "",
-                "cdtDateTime": "",
-                "cdtFloat": "",
-                "cdtInteger": "",
-                "cdtString": "",
-                "cdtObject": "",
-                "cdtArray": "",
-                "cdtAny": ""
+                "cdtVoid": "cdtVoid",
+                "cdtBoolean": "cdtBoolean",
+                "cdtDateTime": "cdtDateTime",
+                "cdtFloat": "cdtFloat",
+                "cdtInteger": "cdtInteger",
+                "cdtString": "cdtString",
+                "cdtObject": "cdtObject",
+                "cdtArray": "cdtArray",
+                "cdtAny": "cdtAny"
             }
         }
     },
     "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
         "TBGWSDLAuthorizationMode": {
-            "Caption": "",
+            "Caption": "Caption",
             "Items": {
-                "waAbsent": "",
-                "waNamePass": "",
-                "waOAuth": "",
-                "waCert": "",
-                "waOasis": ""
+                "waAbsent": "waAbsent",
+                "waNamePass": "waNamePass",
+                "waOAuth": "waOAuth",
+                "waCert": "waCert",
+                "waOasis": "waOasis"
             }
         }
     }
