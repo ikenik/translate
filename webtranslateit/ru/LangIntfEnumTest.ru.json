@@ -1,0 +1,50 @@
+{
+    "Share/Common/CalcFunctions/BG_CalcFuncDescIntf.xml": {
+        "TBGCalcDataType": {
+            "Caption": "Тип данных параметра/результата функции Калькулятора",
+            "Items": {
+                "cdtNone": "Обновлено \r\n  строка \r\n строка #13#10",
+                "cdtDateTime": "Дата {0} время",
+                "cdtFloat": "Вещественный %s, %d",
+                "cdtInteger": "Целое \n число #10",
+                "cdtString": "Строковый \t таб",
+                "cdtAdded": "Добавлено И изменено ",
+                "cdtVariant": "Другие"
+            }
+        },
+        "TBGCalcFuncCategory": {
+            "Caption": "Категория функции",
+            "Items": {
+                "fcFinancical": "Финансовые"
+            }
+        }
+    },
+    "Share/Common/CodeExec/BG_CodeAPIIntf.xml": {
+        "TBGCodeAPIDataType": {
+            "Caption": "Тип данных API",
+            "Items": {
+                "cdtVoid": "Пустой",
+                "cdtBoolean": "Логический",
+                "cdtDateTime": "Дата/время",
+                "cdtFloat": "Вещественный",
+                "cdtInteger": "Целочисленный",
+                "cdtString": "Строковый",
+                "cdtObject": "Объект",
+                "cdtArray": "Массив",
+                "cdtAny": "Любой"
+            }
+        }
+    },
+    "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
+        "TBGWSDLAuthorizationMode": {
+            "Caption": "Тип авторизации клиента, используемый сервисом",
+            "Items": {
+                "waAbsent": "Без авторизации",
+                "waNamePass": "Имя пользователя и пароль",
+                "waOAuth": "OAuth",
+                "waCert": "Предоставить сертификат клиента",
+                "waOasis": "OASIS WS-Security"
+            }
+        }
+    }
+}
