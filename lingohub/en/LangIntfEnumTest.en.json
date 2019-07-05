@@ -5,7 +5,7 @@
       "Items": {
         "cdtNone": " Upd\n  Row 2 \nRow 3\nPset!",
         "cdtDateTime": "dat / {0} tim upd",
-        "cdtFloat": "Real% S &",
+        "cdtFloat": "Real {t} %S { }, {tab} \\t",
         "cdtInteger": "\n Wtkj\nxbcktyysq\nPset",
         "cdtString": "String",
         "cdtAdded": "Added & modified",

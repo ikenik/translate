@@ -5,7 +5,7 @@
       "Items": {
         "cdtNone": "Обновлено\n\n  строка 2 \nстрока 3",
         "cdtDateTime": "Дата/ {0} время",
-        "cdtFloat": "Вещественный %S",
+        "cdtFloat": "Вещественный {t}  %S { }, {tab} \\t",
         "cdtInteger": "Цело\nчисленный",
         "cdtString": "Строковый",
         "cdtAdded": "Добавлено И изменено",
