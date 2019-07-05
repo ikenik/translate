@@ -1,57 +1,50 @@
 {
-    "Share/Common/CalcFunctions/BG_CalcFuncDescIntf.xml": {
-        "TBGCalcDataType": {
-            "Caption": "The data type of the parameter / result of the Calculator function",
-            "Items": {
-                "cdtNone": "\n Upd\n\n  Row 2 \nRow 3\nPset!",
-                "cdtDateTime": "dat / {} tim",
-                "cdtFloat": "Real% S",
-                "cdtInteger": "\n Wtkj\nxbcktyysq\nPset",
-                "cdtString": "String",
-                "cdtAdded": "Added & modified",
-                "cdtVariant": "other"
-            }
-        },
-        "TBGCalcFuncCategory": {
-            "Caption": "Function category",
-            "Items": {
-                "fcFinancical": "Financial",
-                "fcDateTime": "Date Time",
-                "fcMathematic": "Mathematical",
-                "fcStatistic": "Statistical",
-                "fcLogic": "brain teaser",
-                "fcString": "String",
-                "fcOther": "Other",
-                "fcModel": "Custom models"
-            }
-        }
+  "Share/Common/CalcFunctions/BG_CalcFuncDescIntf.xml": {
+    "TBGCalcDataType": {
+      "Caption": "The data type of the parameter / result of the Calculator function",
+      "Items": {
+        "cdtNone": " Upd\n  Row 2 \nRow 3\nPset!",
+        "cdtDateTime": "dat / {0} tim",
+        "cdtFloat": "Real% S &",
+        "cdtInteger": "\n Wtkj\nxbcktyysq\nPset",
+        "cdtString": "String",
+        "cdtAdded": "Added & modified",
+        "cdtVariant": "other"
+      }
     },
-    "Share/Common/CodeExec/BG_CodeAPIIntf.xml": {
-        "TBGCodeAPIDataType": {
-            "Caption": "API data type",
-            "Items": {
-                "cdtVoid": "Empty",
-                "cdtBoolean": "Logical",
-                "cdtDateTime": "Date Time",
-                "cdtFloat": "Real",
-                "cdtInteger": "Integer",
-                "cdtString": "String",
-                "cdtObject": "An object",
-                "cdtArray": "Array",
-                "cdtAny": "Any"
-            }
-        }
-    },
-    "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
-        "TBGWSDLAuthorizationMode": {
-            "Caption": "Type of client authorization used by the service",
-            "Items": {
-                "waAbsent": "Without authorization",
-                "waNamePass": "Username and Password",
-                "waOAuth": "Oauth",
-                "waCert": "Provide client certificate",
-                "waOasis": "OASIS WS-Security"
-            }
-        }
+    "TBGCalcFuncCategory": {
+      "Caption": "Function category",
+      "Items": {
+        "fcFinancical": "Financial"
+      }
     }
+  },
+  "Share/Common/CodeExec/BG_CodeAPIIntf.xml": {
+    "TBGCodeAPIDataType": {
+      "Caption": "API data type",
+      "Items": {
+        "cdtVoid": "Empty",
+        "cdtBoolean": "Logical",
+        "cdtDateTime": "Date Time",
+        "cdtFloat": "Real",
+        "cdtInteger": "Integer",
+        "cdtString": "String",
+        "cdtObject": "An object",
+        "cdtArray": "Array",
+        "cdtAny": "Any"
+      }
+    }
+  },
+  "Share/Common/WSDL/BG_WSDLClientAuthIntf.xml": {
+    "TBGWSDLAuthorizationMode": {
+      "Caption": "Type of client authorization used by the service",
+      "Items": {
+        "waAbsent": "Without authorization",
+        "waNamePass": "Username and Password",
+        "waOAuth": "Oauth",
+        "waCert": "Provide client certificate",
+        "waOasis": "OASIS WS-Security"
+      }
+    }
+  }
 }
