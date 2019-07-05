@@ -4,7 +4,7 @@
       "Caption": "The data type of the parameter / result of the Calculator function",
       "Items": {
         "cdtNone": " Upd\n  Row 2 \nRow 3\nPset!",
-        "cdtDateTime": "dat / {0} tim",
+        "cdtDateTime": "dat / {0} tim upd",
         "cdtFloat": "Real% S &",
         "cdtInteger": "\n Wtkj\nxbcktyysq\nPset",
         "cdtString": "String",
